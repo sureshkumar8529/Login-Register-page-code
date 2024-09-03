@@ -1,0 +1,55 @@
+.input {
+    @apply mb-2 p-2 hover:border-red-900 focus:border-red-500 rounded w-64
+}
+
+.input1 {
+    @apply border-solid border-2 hover:border-red-600 mb-2 p-2 w-64 rounded-md focus:border-red-600
+}
+
+.error-message {
+    @apply text-red-500
+}
+
+.header {
+    @apply text-2xl font-semibold mb-5 text-blue-500
+}
+
+.main {
+    @apply flex flex-col items-center justify-center h-screen bg-gray-300 border border-black mt-6 mb-6
+}
+
+.main1 {
+    @apply flex flex-col items-center justify-center h-screen bg-gray-100
+}
+
+.btn {
+    @apply bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 mt-3
+}
+
+.message {
+    @apply mt-4 text-red-500
+}
+
+.star {
+    @apply text-red-500
+}
+
+.link {
+    @apply text-blue-500 hover:underline
+}
+
+.account {
+    @apply mt-4 text-center text-gray-600
+}
+
+.home {
+    @apply text-blue-500 m-4
+}
+
+.h1 {
+    @apply text-blue-800 m-4
+}
+
+.btn1 {
+    @apply bg-blue-500 text-white py-2 px-4 rounded hover:bg-red-400 mt-3
+}

@@ -1,0 +1,12 @@
+INSERT INTO job_title (title_name) VALUES ('CEO');
+INSERT INTO job_title (title_name) VALUES ('CFO');
+INSERT INTO job_title (title_name) VALUES ('COO');
+INSERT INTO job_title (title_name) VALUES ('CTO');
+INSERT INTO job_title (title_name) VALUES ('CIO');
+INSERT INTO job_title (title_name) VALUES ('Vice President');
+INSERT INTO job_title (title_name) VALUES ('Senior Manager');
+INSERT INTO job_title (title_name) VALUES ('Manager');
+INSERT INTO job_title (title_name) VALUES ('Team Lead');
+INSERT INTO job_title (title_name) VALUES ('Software Engineer');
+INSERT INTO job_title (title_name) VALUES ('Junior Engineer');
+INSERT INTO job_title (title_name) VALUES ('Intern');
